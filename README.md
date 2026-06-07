@@ -51,11 +51,10 @@ The project demonstrates key Generative AI concepts including document ingestion
 
 ## Architecture
 
-
+```text
 User Uploads PDF
         ↓
-Document Processing
-(Load → Chunk → Embed)
+Document Processing (Load → Chunk → Embed)
         ↓
 FAISS Vector Database
         ↓
@@ -67,6 +66,7 @@ Answer Evaluation
 (Correctness, Faithfulness, Hallucination Detection)
         ↓
 Source-Cited Response
+```
 
 ---
 
