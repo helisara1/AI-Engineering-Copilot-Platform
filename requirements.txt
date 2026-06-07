@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+huggingface-hub
+pypdf
+python-dotenv
+openai
+torch
+transformers
